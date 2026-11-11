@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files / zips
+*.zip
+
+# Project data (large datasets, models, venv)
+ResumeMatch/
+*.csv
+*.pdf
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log

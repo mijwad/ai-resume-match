@@ -1,0 +1,12 @@
+# Core dependencies
+sentence-transformers
+numpy
+PyMuPDF
+
+# Frontend dependencies
+streamlit
+plotly
+pandas
+
+# Optional: for faster processing
+# torch

@@ -1,0 +1,4 @@
+numpy
+pandas
+# Kavya's NLP module (nlp_embeddings.py) additionally needs:
+# sentence-transformers
